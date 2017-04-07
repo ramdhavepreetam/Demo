@@ -1,0 +1,23 @@
+{
+  "name": "multivision",
+  "description": "training",
+  "main": "index.js",
+  "authors": [
+    "Preetam Ramdahve"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vender",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "toastr": "^2.1.3"
+  }
+}
